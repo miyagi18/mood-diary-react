@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+# 📔 Мини-дневник настроения (React Mood Diary) Простое одностраничное приложение на React для ежедневной фиксации настроения и кратких заметок. 
+## ✨ Ключевой функционал 
+* Выбор настроения с помощью интерактивных эмодзи.
+* Добавление текстовой заметки через модальное окно.
+* Хронологическая история записей.
+* Сохранение данных после перезагрузки страницы. 
+## 🚀 Стек технологий 
+* **Фреймворк:** React
+* **Стили:** CSS (Минималистичный дизайн)
+---
+## 📸 Скриншоты работающего приложения 
+### 1. Выбор настроения и модальное окно *Нажмите на эмодзи, чтобы открыть форму для ввода заметки.*
+<img width="2560" height="1600" alt="image" src="https://github.com/user-attachments/assets/1a51dd25-e6f3-4126-b11d-2455cb7e7d6e" />
+<img width="771" height="1055" alt="image" src="https://github.com/user-attachments/assets/c0cc6758-9917-4052-80ae-0d455c389205" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 2. История записей 
+<img width="723" height="823" alt="image" src="https://github.com/user-attachments/assets/ea8cc254-4e13-4cd1-8c73-a0e28e5942e1" />
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+--- 
+## 💻 Установка и запуск. Для запуска проекта локально выполните следующие шаги: 
+1.  **Клонируйте репозиторий:** ```bash git clone [https://github.com/](https://github.com/)<ВАШ_АККАУНТ>/mood-diary-react.git cd mood-diary-react ``
+2.  **Установите зависимости:**bash npm install # или yarn install
+3.  Запустите приложение: bash npm start # или yarn start  Приложение откроется в браузере по адресу http://localhost:3000.
